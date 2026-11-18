@@ -1,0 +1,60 @@
+body {
+	font-family: calibri;
+	background-color:#FAD2FA;
+	text-align: center;
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-family: comic sans ms;
+	font-style: italic;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: calibri;
+	
+}
+
+#pageTitle {
+	color: purple;
+	text-align: center;
+	background-color: #FFFDC4;
+	padding: 15px;
+	margin: 20px;
+	border: 2px black;
+	border-style: solid;
+	
+}
+
+.section {
+	background-color: #FFFDC4;
+	border: 2px black;
+	border-style: solid;
+	padding: 10px;
+	margin: 20px;
+	width: 60%;
+	margin: 0 auto;
+	
+}
+
+.sectionLower {
+	color: black;
+	background-color: white;
+	padding:10px;
+	margin: 20px;
+	border: 2px black;
+	border-style: solid;
+	width: 80%;
+	margin: 0 auto;
+}
+
+a {
+	color:purple;
+}
+ 
+a:hover {
+	color:lightblue;
+}
